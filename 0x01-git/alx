@@ -1,0 +1,15 @@
+#!/bin/bash
+echo "ALX"
+[C
+^C
+[C
+clear
+
+:wq
+:wq
+ls
+D
+
+
+exit
+
